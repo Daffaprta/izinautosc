@@ -1,5 +1,5 @@
 # Link install
-<pre><code>wget -q -O main.sh "https://raw.githubusercontent.com/yuliusvpn/izinsc/main/folder/main.sh";chmod +x main.sh;bash main.sh</code></pre>
+<pre><code>wget -q -O main.sh "https://raw.githubusercontent.com/Daffaprta/izinautosc/main/folder/main.sh";chmod +x main.sh;bash main.sh</code></pre>
 
 ## set exp user sc
 - user tanggal-exp ipvps
