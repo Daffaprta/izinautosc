@@ -38,7 +38,7 @@ if [ "$(systemd-detect-virt)" == "openvz" ]; then
 		exit 1
 fi
 
-url_izin="https://raw.githubusercontent.com/yuliusvpn/izinsc/main/ip"
+url_izin="https://raw.githubusercontent.com/Daffaprta/izinautosc/main/ip"
 data_server=$(curl -v --insecure --silent https://google.com/ 2>&1 | grep Date | sed -e 's/< Date: //')
 date_list=$(date +"%Y-%m-%d" -d "$data_server")
 checking_sc() {
